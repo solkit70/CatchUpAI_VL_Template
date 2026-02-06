@@ -39,6 +39,10 @@ CUA_VL은 AI와 함께 체계적으로 학습하고, 학습 과정 자체를 "�
    └── vl_materials/          # 참조 자료
    ```
 3. 수집한 정보로 `topic_info.md` 생성
+4. `templates/`의 프롬프트 템플릿에 Topic 정보를 주입하여 `vl_prompts/`에 저장:
+   - `vl_prompts/roadmap_prompt.md` ← `templates/roadmap_prompt_template.md` + Topic 정보
+   - `vl_prompts/daily_learning_prompt.md` ← `templates/daily_learning_prompt.md` + Topic 정보
+   > 이 파일들은 다른 AI 도구나 새 대화 세션에서 동일한 학습 가이드를 받기 위해 필수
 
 ### Phase 2: Roadmap 생성 (Topic당 1회)
 
