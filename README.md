@@ -1,4 +1,4 @@
-# Catch Up AI Vibe Learning Methodology (CUA_VL)
+# VibeLearn AI (CUA_VL)
 
 **Version**: 2.0
 **Date**: 2025-12-28
@@ -10,7 +10,7 @@
 
 ## 📚 개요 (Overview)
 
-**Catch Up AI Vibe Learning Methodology (CUA_VL)**는 AI를 활용하여 새로운 기술, 프레임워크, 프로젝트를 체계적으로 학습하고, 그 과정에서 생성된 산출물을 다른 학습자들이 활용할 수 있는 고품질 교과서로 만드는 학습 방법론입니다.
+**VibeLearn AI (CUA_VL)**는 AI를 활용하여 새로운 기술, 프레임워크, 프로젝트를 체계적으로 학습하고, 그 과정에서 생성된 산출물을 다른 학습자들이 활용할 수 있는 고품질 교과서로 만드는 학습 방법론입니다.
 
 ### 핵심 철학
 
@@ -721,7 +721,7 @@ echo "*.pyc" >> .gitignore
 - YouTube: https://www.youtube.com/@catchupai/
 - Email: solkit70@gmail.com
 - GitHub (Vibe Coding): https://github.com/solkit70/MCP_Basic_Higher_Models_GC.git
-- GitHub (Methodology Template): https://github.com/solkit70/CatchUpAI_VL_Template.git
+- GitHub (Methodology Template): https://github.com/solkit70/VibeLearn-AI.git
 
 ---
 

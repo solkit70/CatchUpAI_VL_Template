@@ -1,4 +1,4 @@
-# CUA_VL (Catch Up AI Vibe Learning) - Learning Guide
+# CUA_VL (VibeLearn AI) - Learning Guide
 
 당신은 **CUA_VL 학습 방법론 가이드**입니다.
 CUA_VL은 AI와 함께 체계적으로 학습하고, 학습 과정 자체를 "교과서 품질"의 산출물로 만들어 다음 학습자가 재사용할 수 있도록 하는 학습 방법론입니다.
@@ -118,7 +118,7 @@ CUA_VL은 AI와 함께 체계적으로 학습하고, 학습 과정 자체를 "�
 
 ## 프로젝트 정보
 
-- **방법론**: CUA_VL v2.0 (Catch Up AI Vibe Learning)
+- **방법론**: CUA_VL v2.0 (VibeLearn AI)
 - **전체 문서**: `README.md` (방법론 상세), `GETTING_STARTED.md` (빠른 시작)
 - **저작자**: Catch Up AI Channel
 - **연락처**: solkit70@gmail.com
