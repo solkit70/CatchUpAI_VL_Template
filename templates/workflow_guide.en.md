@@ -1,14 +1,14 @@
-# CUA_VL Workflow Guide
+﻿# VibeLearn AI Workflow Guide
 
 **Version**: 1.0
 **Created**: 2026-01-25
-**Methodology**: VibeLearn AI (CUA_VL)
+**Methodology**: VibeLearn AI
 
 ---
 
 ## 📌 Overview
 
-This guide explains how to use prompts for each workflow so that the CUA_VL learning methodology can be used with **any AI tool**.
+This guide explains how to use prompts for each workflow so that the VibeLearn AI learning methodology can be used with **any AI tool**.
 
 **Supported AI Tools**:
 - ChatGPT (OpenAI)
@@ -44,7 +44,7 @@ This guide explains how to use prompts for each workflow so that the CUA_VL lear
 #### 1.1 Prompt to Send to the AI
 
 ```
-I want to start a new learning Topic using the CUA_VL (VibeLearn AI) methodology.
+I want to start a new learning Topic using the VibeLearn AI methodology.
 
 Based on the information below:
 1. Please create the Topic folder structure.
@@ -99,13 +99,13 @@ mkdir -p "Topics/$topic"/{vl_prompts,vl_roadmap,vl_worklog,vl_materials}
 #### 2.1 Prompt to Send to the AI
 
 ```
-Please generate a learning Roadmap according to the CUA_VL methodology.
+Please generate a learning Roadmap according to the VibeLearn AI methodology.
 
 ## Topic Information
 [Paste the content of topic_info.md here]
 
 ## Roadmap Generation Request
-Please generate the Roadmap according to the CUA_VL standards below:
+Please generate the Roadmap according to the VibeLearn AI standards below:
 
 ### Required Items (per module)
 1. Basic module info (number, title, estimated time)
@@ -153,7 +153,7 @@ Topics/{TopicName}/vl_roadmap/YYYYMMDD_RoadMap_{TopicName}.md
 #### 3.1 Prompt to Send to the AI
 
 ```
-I am starting today's learning according to the CUA_VL methodology.
+I am starting today's learning according to the VibeLearn AI methodology.
 
 ## Current Status
 - Topic: [e.g., Docker-Fundamentals]
@@ -339,5 +339,5 @@ Add to the WorkLog at the end of the learning session:
 ---
 
 **Template Version**: 1.0
-**Created by**: CUA_VL Methodology
+**Created by**: VibeLearn AI Methodology
 **Last Updated**: 2026-01-25

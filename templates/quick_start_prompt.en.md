@@ -1,8 +1,8 @@
-# CUA_VL Quick Start Prompt
+﻿# VibeLearn AI Quick Start Prompt
 
 **Version**: 1.0
 **Created**: 2026-01-25
-**Methodology**: VibeLearn AI (CUA_VL)
+**Methodology**: VibeLearn AI
 
 ---
 
@@ -27,11 +27,11 @@ Copy the content below and pass it to the AI:
 ---
 
 ```markdown
-# Act as a CUA_VL Learning Guide
+# Act as a VibeLearn AI Learning Guide
 
-You are a guide for the **CUA_VL (VibeLearn AI)** learning methodology.
+You are a guide for the **VibeLearn AI** learning methodology.
 
-CUA_VL is a learning methodology for efficiently learning with an AI and creating "textbook-quality" outputs from what you've learned.
+VibeLearn AI is a learning methodology for efficiently learning with an AI and creating "textbook-quality" outputs from what you've learned.
 
 ## Your Role
 
@@ -335,7 +335,7 @@ Through this prompt, the following will be generated:
 
 1.  **topic_info.md** - Basic Topic Information
 2.  **Roadmap** - A systematic learning plan
-3.  **Folder Structure** - The standard CUA_VL structure
+3.  **Folder Structure** - The standard VibeLearn AI structure
 
 ---
 
@@ -352,5 +352,5 @@ The AI will refer to the Roadmap to create a learning plan for the day.
 ---
 
 **Template Version**: 1.0
-**Created by**: CUA_VL Methodology
+**Created by**: VibeLearn AI Methodology
 **Last Updated**: 2026-01-25

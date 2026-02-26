@@ -1,4 +1,4 @@
-# CUA_VL Quick Start Guide
+﻿# VibeLearn AI Quick Start Guide
 
 🌐 **Language / 언어**: [한국어](GETTING_STARTED.md) | [English](GETTING_STARTED.en.md)
 
@@ -7,9 +7,9 @@
 
 ---
 
-## 🎯 What is CUA_VL?
+## 🎯 What is VibeLearn AI?
 
-**VibeLearn AI (CUA_VL)** is a learning methodology for systematically learning new technologies with AI and turning the outputs generated in the process into high-quality "textbooks" that other learners can use.
+**VibeLearn AI** is a learning methodology for systematically learning new technologies with AI and turning the outputs generated in the process into high-quality "textbooks" that other learners can use.
 
 **Core Philosophy**:
 > "Learn with AI, structure what you've learned, and pave the way for the next learner."
@@ -20,10 +20,10 @@
 
 ### Step 0: Before You Begin
 
-**Files included in the CUA_VL_v2.0 folder**:
+**Files included in the VibeLearn AI_v2.0 folder**:
 ```
-CUA_VL_v2.0/
-├── README.en.md                     # Introduction to the CUA_VL methodology (Recommended to read first!)
+VibeLearn AI_v2.0/
+├── README.en.md                     # Introduction to the VibeLearn AI methodology (Recommended to read first!)
 ├── GETTING_STARTED.en.md           # This file - Quick Start Guide
 └── templates/
     ├── topic_starter.en.md         # Topic start template
@@ -32,17 +32,17 @@ CUA_VL_v2.0/
 ```
 
 **💡 Recommended Order**:
-1.  **Read README.en.md first** - Understand the philosophy and overall structure of the CUA_VL methodology.
+1.  **Read README.en.md first** - Understand the philosophy and overall structure of the VibeLearn AI methodology.
 2.  **Practice with this guide (GETTING_STARTED.en.md)** - Follow the steps to start learning.
 
 ---
 
 ### Step 1: Prepare for Learning
 
-If you have the CUA_VL_v2.0 folder, you can start right away!
+If you have the VibeLearn AI_v2.0 folder, you can start right away!
 
 **What you need**:
-- ✅ This folder (CUA_VL_v2.0/)
+- ✅ This folder (VibeLearn AI_v2.0/)
 - ✅ An AI assistant (Claude, ChatGPT, Gemini, etc. - Vibe Coding Tools recommended)
 - ✅ A Topic you want to learn and the will to learn
 
@@ -61,7 +61,7 @@ If you're unsure how to fill out `topic_starter.md`, use the prompt below with y
 "I want to learn about [Topic Name]. Can you help me create the topic_starter.md file?
 I want to finish in [duration] and achieve [goal].
 
-Please ask me multiple-choice questions (radio buttons/checkboxes) to gather the necessary information according to the CUA_VL methodology and create the file with me."
+Please ask me multiple-choice questions (radio buttons/checkboxes) to gather the necessary information according to the VibeLearn AI methodology and create the file with me."
 ```
 
 **Example**:
@@ -69,7 +69,7 @@ Please ask me multiple-choice questions (radio buttons/checkboxes) to gather the
 "I want to learn about Deep Agent technology. Can you help me create the topic_starter.md file?
 I want to finish in 2 weeks and actually build an AI Application.
 
-Please ask me multiple-choice questions (radio buttons/checkboxes) to gather the necessary information according to the CUA_VL methodology and create the file with me."
+Please ask me multiple-choice questions (radio buttons/checkboxes) to gather the necessary information according to the VibeLearn AI methodology and create the file with me."
 ```
 
 **What the AI does**:
@@ -81,10 +81,10 @@ Please ask me multiple-choice questions (radio buttons/checkboxes) to gather the
 
 2.  **Creates `topic_starter.md` reflecting your answers**
     -   Generates a complete file with all sections filled out.
-    -   Structures it according to the CUA_VL template format.
+    -   Structures it according to the VibeLearn AI template format.
 
 3.  **Saves the file**
-    -   Saves it as `templates/[YourTopic]_topic_starter.md` (relative to the CUA_VL_v2.0 folder).
+    -   Saves it as `templates/[YourTopic]_topic_starter.md` (relative to the VibeLearn AI_v2.0 folder).
 
 **Key Advantages**:
 - ✅ Quick selection with radio buttons/checkboxes
@@ -131,14 +131,14 @@ Once `topic_starter.md` is complete, use the following prompt with your AI.
 
 **Prompt Template**:
 ```
-"Please look at the `[YourTopic]_topic_starter.md` file and create a Topic folder that follows the CUA_VL methodology.
+"Please look at the `[YourTopic]_topic_starter.md` file and create a Topic folder that follows the VibeLearn AI methodology.
 
 Once done, please guide me on what to do for the next step."
 ```
 
 **Example**:
 ```
-"Please look at the `DeepAgent_topic_starter.md` file and create a Topic folder that follows the CUA_VL methodology.
+"Please look at the `DeepAgent_topic_starter.md` file and create a Topic folder that follows the VibeLearn AI methodology.
 
 Once done, please guide me on what to do for the next step."
 ```
@@ -146,7 +146,7 @@ Once done, please guide me on what to do for the next step."
 **What the AI does**:
 1.  **Automatically creates the Topic folder structure**
     ```
-    CUA_VL_v2.0/Topics/Deep-Agent/  # Created under the Topics folder
+    VibeLearn AI_v2.0/Topics/Deep-Agent/  # Created under the Topics folder
     ├── topic_info.md              # Content from topic_starter is copied here
     ├── vl_prompts/
     │   ├── roadmap_prompt.md      # Prompt injected with Topic info
@@ -246,7 +246,7 @@ Current Status:
 
 ```mermaid
 graph TD
-    A[Copy CUA_VL] --> B[Create topic_starter.md]
+    A[Copy VibeLearn AI] --> B[Create topic_starter.md]
     B --> C[Ask AI to Create Topic Folder]
     C --> D[Generate Roadmap with roadmap_prompt.md]
     D --> E[Daily Learning with daily_learning_prompt.md]
@@ -267,7 +267,7 @@ graph TD
 
 ### Distribution Package Structure
 ```
-CUA_VL_v2.0/                    # Distribution package (this folder)
+VibeLearn AI_v2.0/                    # Distribution package (this folder)
 ├── README.en.md                 # Full methodology description
 ├── GETTING_STARTED.en.md       # Quick start guide (this file)
 └── templates/                  # Template files
@@ -278,7 +278,7 @@ CUA_VL_v2.0/                    # Distribution package (this folder)
 
 ### Structure After Starting Learning (Example)
 ```
-CUA_VL_v2.0/                   # Distribution package (root)
+VibeLearn AI_v2.0/                   # Distribution package (root)
 ├── README.en.md
 ├── GETTING_STARTED.en.md
 ├── templates/
@@ -478,7 +478,7 @@ CUA_VL_v2.0/                   # Distribution package (root)
 ## ❓ FAQ
 
 ### Q1. Can I use this without an AI?
-**A**: **No, an AI is essential.** The "Vibe Learning" in CUA_VL is centered around collaboration with an AI.
+**A**: **No, an AI is essential.** The "Vibe Learning" in VibeLearn AI is centered around collaboration with an AI.
 
 **Why is an AI essential?**
 -   **Roadmap Generation**: The AI analyzes Topic information to create a structured learning plan.
@@ -503,9 +503,9 @@ CUA_VL_v2.0/                   # Distribution package (root)
 **Web-based (Auxiliary)**:
 -   Claude.ai, ChatGPT (Inefficient due to copy/paste)
 
-**Important**: You must use an **AI tool integrated into a CLI environment** that can read and write files directly to maximize the efficiency of CUA_VL. Using only web-based AIs will result in time wasted on copying and pasting.
+**Important**: You must use an **AI tool integrated into a CLI environment** that can read and write files directly to maximize the efficiency of VibeLearn AI. Using only web-based AIs will result in time wasted on copying and pasting.
 
-Without an AI, you cannot experience the core values of CUA_VL: "efficient learning" and "the AI-era learning method."
+Without an AI, you cannot experience the core values of VibeLearn AI: "efficient learning" and "the AI-era learning method."
 
 ### Q2. What kind of Topics is this suitable for?
 **A**: It's suitable for any Topic where you can set a learning goal and approach it systematically.
@@ -521,7 +521,7 @@ Without an AI, you cannot experience the core values of CUA_VL: "efficient learn
 - ✅ Business, economics, etc.
 - ✅ Language learning (English, French, etc.)
 
-**Key takeaway**: With CUA_VL, the focus is on **systematic learning with an AI**, rather than the type of Topic. Even for theory subjects without practical exercises, it's effective to organize concepts in conversation with an AI and record the learning process in a WorkLog.
+**Key takeaway**: With VibeLearn AI, the focus is on **systematic learning with an AI**, rather than the type of Topic. Even for theory subjects without practical exercises, it's effective to organize concepts in conversation with an AI and record the learning process in a WorkLog.
 
 ### Q3. How do I decide on the learning duration?
 **A**: **You set it yourself**, but the **AI will review its appropriateness**.
@@ -548,10 +548,10 @@ Without an AI, you cannot experience the core values of CUA_VL: "efficient learn
 -   **Medium Complexity** (Framework, library): 2-4 weeks
 -   **Complex Topic** (Large-scale system, multiple technologies): 1-3 months
 
-**Key takeaway**: CUA_VL is **flexible and adjusts to your schedule**. The AI checks for feasibility, so feel free to set the duration you want!
+**Key takeaway**: VibeLearn AI is **flexible and adjusts to your schedule**. The AI checks for feasibility, so feel free to set the duration you want!
 
 ### Q4. Can I use it alone?
-**A**: Yes! CUA_VL is optimized for individual learning. If used in a team, you can achieve greater synergy by sharing outputs.
+**A**: Yes! VibeLearn AI is optimized for individual learning. If used in a team, you can achieve greater synergy by sharing outputs.
 
 ### Q5. Is Git mandatory?
 **A**: It's not mandatory, but highly recommended for:
@@ -563,7 +563,7 @@ Without an AI, you cannot experience the core values of CUA_VL: "efficient learn
 **A**: It's possible, but not recommended. Focusing on one Topic at a time is more effective.
 
 ### Q7. Can I use it in English or other languages?
-**A**: Yes! CUA_VL **fully supports multiple languages**.
+**A**: Yes! VibeLearn AI **fully supports multiple languages**.
 
 **Current Status**:
 -   🇰🇷 **Korean**: Current version (v2.0)
@@ -589,7 +589,7 @@ Learning Period: 2 weeks
 ...
 ```
 
-CUA_VL is a methodology that can be used by **all global learners**!
+VibeLearn AI is a methodology that can be used by **all global learners**!
 
 ### Q8. Can I create the `topic_starter.md` and folders manually?
 **A**: Yes! You can create the folder structure yourself without AI assistance. However, you will need to copy the files from `templates` and inject the Topic information yourself.
@@ -617,13 +617,13 @@ CUA_VL is a methodology that can be used by **all global learners**!
 ## 📚 Learn More
 
 ### Detailed Documents
--   [CUA_VL README.en.md](README.en.md): Full methodology description
+-   [VibeLearn AI README.en.md](README.en.md): Full methodology description
 -   [topic_starter.en.md](templates/topic_starter.en.md): Topic start template
 -   [roadmap_prompt_template.en.md](templates/roadmap_prompt_template.en.md): Roadmap generation guide
 -   [daily_learning_prompt.en.md](templates/daily_learning_prompt.en.md): Daily learning guide
 
 ### Examples (for reference)
--   `CUA_VL_Development/`: The development process of CUA_VL itself (meta-learning)
+-   `VibeLearn AI_Development/`: The development process of VibeLearn AI itself (meta-learning)
 -   Each Topic folder: Actual learning results
 
 ---
@@ -644,7 +644,7 @@ CUA_VL is a methodology that can be used by **all global learners**!
 
 ## 🎉 Ready to Start?
 
-1.  ✅ CUA_VL copied
+1.  ✅ VibeLearn AI copied
 2.  ✅ Understood the methodology by reading README.en.md
 3.  ✅ Figured out how to get started quickly with this guide
 4.  🚀 **Now, create your `topic_starter.md` and start your first Topic!**
@@ -657,4 +657,4 @@ CUA_VL is a methodology that can be used by **all global learners**!
 
 **Version**: 2.0
 **Last Updated**: 2025-12-28
-**Created by**: CUA_VL Methodology
+**Created by**: VibeLearn AI Methodology

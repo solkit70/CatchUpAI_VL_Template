@@ -1,4 +1,4 @@
-# CUA_VL Topic Starter
+﻿# VibeLearn AI Topic Starter
 
 > This file is a template for starting a new Topic.
 >
@@ -268,12 +268,12 @@ Required:
 
 ## 📞 Need Help?
 
--   For the full CUA_VL methodology: See `CUA_VL/README.md`
--   For a quick start guide: See `CUA_VL/GETTING_STARTED.md`
+-   For the full VibeLearn AI methodology: See `VibeLearn AI/README.md`
+-   For a quick start guide: See `VibeLearn AI/GETTING_STARTED.md`
 -   Contact: solkit70@gmail.com
 
 ---
 
 **Template Version**: 1.0
-**Created by**: CUA_VL Methodology
+**Created by**: VibeLearn AI Methodology
 **Last Updated**: 2025-12-28

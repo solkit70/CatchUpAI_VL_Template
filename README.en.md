@@ -1,4 +1,4 @@
-# VibeLearn AI (CUA_VL)
+﻿# VibeLearn AI
 
 🌐 **Language / 언어**: [한국어](README.md) | [English](README.en.md)
 
@@ -12,7 +12,7 @@
 
 ## 📚 Overview
 
-**VibeLearn AI (CUA_VL)** is a learning methodology that systematically learns new technologies, frameworks, and projects using AI, and turns the outputs generated in the process into high-quality textbooks that other learners can utilize.
+**VibeLearn AI** is a learning methodology that systematically learns new technologies, frameworks, and projects using AI, and turns the outputs generated in the process into high-quality textbooks that other learners can utilize.
 
 ### Core Philosophy
 
@@ -49,17 +49,17 @@
 
 ## 🏗️ Structure of the Methodology
 
-### CUA_VL Overall Structure
+### VibeLearn AI Overall Structure
 
 ```
-CUA_VL/
+VibeLearn AI/
 ├── README.en.md                 # Methodology description (this file)
 ├── GETTING_STARTED.en.md        # Quick start guide
 ├── templates/                  # Template files
 │   ├── topic_starter.en.md       # Topic start template
 │   ├── roadmap_prompt_template.en.md
 │   └── daily_learning_prompt.en.md
-├── CUA_VL_Development/         # CUA_VL's own development history
+├── VibeLearn AI_Development/         # VibeLearn AI's own development history
 │   └── vl_worklog/
 └── [Topic Folders]/            # Each learning Topic
     ├── topic_info.md
@@ -301,7 +301,7 @@ graph TD
 - **Duration**: 30-60 minutes
 - **Content**:
   - Overall learning journey statistics
-  - Evaluation of the CUA_VL methodology's effectiveness
+  - Evaluation of the VibeLearn AI methodology's effectiveness
   - Topic-specific characteristics and insights
   - Methodology improvements (to apply to the next Topic)
   - Textbook quality assessment of outputs
@@ -309,7 +309,7 @@ graph TD
 ### Value of Retrospectives
 - **Metacognition**: Improve the learning method itself
 - **Pattern Recognition**: Discover recurring problem/success patterns
-- **Methodology Evolution**: Data-driven CUA_VL improvement
+- **Methodology Evolution**: Data-driven VibeLearn AI improvement
 - **Motivation**: Visualize achievement and growth
 
 ---
@@ -469,7 +469,7 @@ You need to create an MCP server that provides a simple file-reading function.
 
 | Folder Type | Rule | Example |
 |----------|------|------|
-| CUA_VL-specific folder | `vl_` prefix + lowercase | `vl_prompts/`, `vl_roadmap/`, `vl_worklog/` |
+| VibeLearn AI-specific folder | `vl_` prefix + lowercase | `vl_prompts/`, `vl_roadmap/`, `vl_worklog/` |
 | Output Folder | `NN-TopicName/` | `01-Setup/`, `02-Basics/` |
 | Subfolder | lowercase, hyphen | `concepts/`, `troubleshooting/` |
 
@@ -600,7 +600,7 @@ You need to create an MCP server that provides a simple file-reading function.
 # Git setup (optional)
 git init
 git add .
-git commit -m "Initial CUA_VL structure"
+git commit -m "Initial VibeLearn AI structure"
 
 # .gitignore setup
 echo ".env" >> .gitignore
@@ -628,12 +628,12 @@ echo "*.pyc" >> .gitignore
 |------|----------|
 | Understanding | Self-Assessment score (⭐ 4 or more) |
 | Output Quality | Usable by other learners |
-| Methodology Mastery | Natural application of the CUA_VL process |
+| Methodology Mastery | Natural application of the VibeLearn AI process |
 | Practicality | Ability to apply learned content to real work |
 
 ---
 
-## 🌟 Advantages of CUA_VL
+## 🌟 Advantages of VibeLearn AI
 
 ### 1. Learner's Perspective
 - ✅ **Structured Learning**: Clear steps and processes
@@ -692,7 +692,7 @@ echo "*.pyc" >> .gitignore
 - [x] GETTING_STARTED.md quick start guide
 - [x] Independent folder structure per Topic
 - [ ] Develop automation scripts (optional)
-- [ ] CUA_VL CLI tool (future)
+- [ ] VibeLearn AI CLI tool (future)
 - [ ] Web-based dashboard (future)
 
 ### Community

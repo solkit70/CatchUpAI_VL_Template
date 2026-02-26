@@ -1,8 +1,8 @@
-# CUA_VL Translation Glossary (EN-KO)
+﻿# VibeLearn AI Translation Glossary (EN-KO)
 
 **Version**: 1.0
 **Date**: 2026-02-25
-**Purpose**: Maintain consistent terminology across all Korean and English CUA_VL documents.
+**Purpose**: Maintain consistent terminology across all Korean and English VibeLearn AI documents.
 
 ---
 
@@ -40,8 +40,7 @@
 
 | Term | Reason |
 |------|--------|
-| `CUA_VL` | Project/methodology name |
-| `VibeLearn AI` | Brand name |
+| `VibeLearn AI` | Brand and methodology name — do not translate |
 | `WorkLog` | Proper noun, keep in both languages |
 | `vl_prompts` | Folder name — must not change |
 | `vl_roadmap` | Folder name — must not change |

@@ -1,4 +1,4 @@
-# validate-localization.ps1
+﻿# validate-localization.ps1
 # Runs 5 quality gate checks on Korean/English document pairs.
 #
 # Usage: powershell -ExecutionPolicy Bypass -File scripts/validate-localization.ps1
@@ -84,7 +84,7 @@ Header "Check 3: Structure Check (English files have required headings)"
 $headingChecks = @(
     @{ File = "README.en.md";                          Headings = @("Overview", "Goals", "Core Philosophy") },
     @{ File = "GETTING_STARTED.en.md";                 Headings = @("Quick Start", "Step") },
-    @{ File = "CLAUDE.en.md";                          Headings = @("Activation Conditions", "CUA_VL Workflow", "Core Rules") },
+    @{ File = "CLAUDE.en.md";                          Headings = @("Activation Conditions", "VibeLearn AI Workflow", "Core Rules") },
     @{ File = "templates/topic_starter.en.md";         Headings = @("Topic") },
     @{ File = "templates/roadmap_prompt_template.en.md"; Headings = @("Roadmap", "Module") },
     @{ File = "templates/daily_learning_prompt.en.md"; Headings = @("Daily", "Step") },

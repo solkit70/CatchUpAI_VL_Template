@@ -1,8 +1,8 @@
-# CUA_VL Daily Learning Prompt
+﻿# VibeLearn AI Daily Learning Prompt
 
 **Version**: 2.0
 **Created**: 2025-12-28
-**Methodology**: VibeLearn AI (CUA_VL)
+**Methodology**: VibeLearn AI
 
 ---
 
@@ -86,7 +86,7 @@ or
 
 ## [Step 2] Task to Request from the AI
 
-Based on the information above, please create today's learning plan according to the **CUA_VL methodology**.
+Based on the information above, please create today's learning plan according to the **VibeLearn AI methodology**.
 
 ---
 
@@ -449,7 +449,7 @@ Definition of Done for Roadmap M{X}:
 ---
 
 **Author**: {Name}
-**Methodology**: CUA_VL (VibeLearn AI)
+**Methodology**: VibeLearn AI
 ```
 
 ---
@@ -687,4 +687,4 @@ graph TD
 
 **Template Version**: 2.0
 **Created**: 2025-12-28
-**Methodology**: CUA_VL (VibeLearn AI)
+**Methodology**: VibeLearn AI
