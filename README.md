@@ -1,5 +1,7 @@
 # VibeLearn AI (CUA_VL)
 
+🌐 **Language / 언어**: [한국어](README.md) | [English](README.en.md)
+
 **Version**: 2.0
 **Date**: 2025-12-28
 **Author**: Catch Up AI Channel

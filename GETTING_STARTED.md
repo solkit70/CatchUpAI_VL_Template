@@ -1,5 +1,7 @@
 # CUA_VL 빠른 시작 가이드
 
+🌐 **Language / 언어**: [한국어](GETTING_STARTED.md) | [English](GETTING_STARTED.en.md)
+
 **버전**: 2.0
 **최종 업데이트**: 2025-12-28
 
